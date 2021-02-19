@@ -1,0 +1,7 @@
+D:\study\Properties\Properties\bin\Debug\Properties.exe.config
+D:\study\Properties\Properties\bin\Debug\Properties.exe
+D:\study\Properties\Properties\bin\Debug\Properties.pdb
+D:\study\Properties\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+D:\study\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\study\Properties\Properties\obj\Debug\Properties.exe
+D:\study\Properties\Properties\obj\Debug\Properties.pdb

@@ -1,0 +1,7 @@
+D:\study\C Sharp\PartialClasses\PartialClasses\bin\Debug\PartialClasses.exe.config
+D:\study\C Sharp\PartialClasses\PartialClasses\bin\Debug\PartialClasses.exe
+D:\study\C Sharp\PartialClasses\PartialClasses\bin\Debug\PartialClasses.pdb
+D:\study\C Sharp\PartialClasses\PartialClasses\obj\Debug\PartialClasses.csprojAssemblyReference.cache
+D:\study\C Sharp\PartialClasses\PartialClasses\obj\Debug\PartialClasses.csproj.CoreCompileInputs.cache
+D:\study\C Sharp\PartialClasses\PartialClasses\obj\Debug\PartialClasses.exe
+D:\study\C Sharp\PartialClasses\PartialClasses\obj\Debug\PartialClasses.pdb
