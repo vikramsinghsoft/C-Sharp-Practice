@@ -1,0 +1,7 @@
+D:\study\C Sharp- Practice\CollectionTest\CollectionTest\bin\Debug\CollectionTest.exe.config
+D:\study\C Sharp- Practice\CollectionTest\CollectionTest\bin\Debug\CollectionTest.exe
+D:\study\C Sharp- Practice\CollectionTest\CollectionTest\bin\Debug\CollectionTest.pdb
+D:\study\C Sharp- Practice\CollectionTest\CollectionTest\obj\Debug\CollectionTest.csprojAssemblyReference.cache
+D:\study\C Sharp- Practice\CollectionTest\CollectionTest\obj\Debug\CollectionTest.csproj.CoreCompileInputs.cache
+D:\study\C Sharp- Practice\CollectionTest\CollectionTest\obj\Debug\CollectionTest.exe
+D:\study\C Sharp- Practice\CollectionTest\CollectionTest\obj\Debug\CollectionTest.pdb
